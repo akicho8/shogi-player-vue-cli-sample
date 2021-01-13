@@ -4,7 +4,7 @@
 
 これは [shogi-player](https://akicho8.github.io/shogi-player/) を vue cli で使うサンプルです
 
-手順はこちらの半自動生成スクリプト [shogi-player-vue-cli-sample-create.sh](https://raw.github.com/akicho8/shogi-player/shogi-player-vue-cli-sample-create.sh) をご覧ください
+この半自動生成スクリプト [shogi-player-vue-cli-sample-create.sh](https://github.com/akicho8/shogi-player/blob/master/shogi-player-vue-cli-sample-create.sh) で生成しました
 
 ## このサンプルの実行方法
 ```
